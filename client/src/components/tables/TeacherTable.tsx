@@ -21,7 +21,7 @@ function TeacherTable({ columns, rows }: TeacherTableProps) {
   const [dense, setDense] = useState<boolean>(true);
   const [rowsPerPage, setRowsPerPage] = useState<number>(10);
 
-  const onChangePage = (e: unknown, newPage: number) => setPage(newPage);
+  const onChangePage = (_e: unknown, newPage: number) => setPage(newPage);
 
   const onChangeRows = (e: ChangeEvent<HTMLInputElement>) => {
     setRowsPerPage(parseInt(e.target.value, 10));
