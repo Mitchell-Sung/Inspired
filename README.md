@@ -2,6 +2,7 @@
 
 ## Applicant
 
+- Name: Mitchell Sung
 - Email: mitchell.sung@gmail.com
 - Portfolio: [https://mitchell-sung.netlify.app/](https://mitchell-sung.netlify.app/)
 
