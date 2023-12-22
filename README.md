@@ -12,7 +12,8 @@ This project involves creating an educational dashboard with the following techn
 - **Frontend**: Implemented using `React` and `TypeScript`.
 - **Backend**: Developed using `Node.js`.
 - **Database**: Built with SQL Server.
-- Additionally, the frontend is deployed at [https://inspiredinsturction.netlify.app/](https://inspiredinsturction.netlify.app/)
+- Additionally, the frontend is deployed at [https://inspiredinsturction.netlify.app/]
+- **Github**: https://github.com/Mitchell-Sung/Inspired
 
 ## **Setup Procedure**
 
