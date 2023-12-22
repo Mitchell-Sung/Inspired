@@ -1,0 +1,27 @@
+.drawer {
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+
+.drawer_logo {
+  width: 150px;
+  padding-left: 0.9rem;
+  cursor: pointer;
+}
+
+.list_item {
+  display: block;
+  padding-left: 0;
+}
+
+.list_item :hover {
+  border-radius: 10px;
+}
+
+.list_item_icon {
+  min-width: 45px !important;
+}
+
+.list_item_text span {
+  font-weight: 500;
+}

@@ -1,0 +1,19 @@
+.search {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background-color: #eeeeee !important;
+  border: none !important;
+  height: 2.75rem;
+  border-radius: 0.5rem !important;
+  width: 30rem;
+}
+
+.search_button {
+  padding: 10px;
+}
+
+.search_input {
+  margin-left: 0.5rem;
+  flex: 0.5rem;
+}

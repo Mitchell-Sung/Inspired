@@ -1,0 +1,60 @@
+.paper {
+  padding: 1rem;
+  border-radius: 1rem;
+  width: 100%;
+}
+
+.table_head_row_cell {
+  font-size: 0.8rem !important;
+}
+
+.table_body_row {
+  cursor: pointer;
+}
+
+.table_body_cell {
+  font-size: 0.8rem !important;
+}
+
+.table_body_cell_active {
+  border: solid 1px !important;
+  border-color: #4caf50 !important;
+  border-radius: 10px !important;
+  color: #4caf50 !important;
+  min-width: 95px !important;
+}
+
+.table_body_cell_slider {
+  min-width: 125px;
+}
+
+.table_body_cell_slider :global .MuiSlider-markLabel {
+  font-size: 0.7rem;
+}
+
+.table_body_cell_subject {
+  display: flex;
+  flex-direction: row;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.table_body_cell_coach {
+  display: inline-block;
+}
+
+.table_body_cell_coach_avatar {
+  width: 25px !important;
+  height: 25px !important;
+  background-color: #4caf50 !important;
+  font-size: 0.7rem !important;
+}
+
+.table_body_cell_more {
+  text-align: right !important;
+}
+
+.table_footer {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+.section {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  align-items: center;
+  padding-bottom: 0.75rem;
+}

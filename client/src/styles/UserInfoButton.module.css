@@ -1,0 +1,22 @@
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem;
+  border-radius: 0.5rem !important;
+  background-color: #eeeeee !important;
+}
+
+.button_avatar {
+  background-color: #4caf50 !important;
+  width: 2rem !important;
+  height: 2rem !important;
+  font-size: 1rem !important;
+}
+
+.button_typo {
+  text-transform: none;
+  color: var(--cl-text-primary);
+  font-size: 1rem;
+}
